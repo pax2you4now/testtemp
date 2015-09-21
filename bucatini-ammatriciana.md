@@ -1,2 +1,2 @@
 #bucatini-ammatriciana
-primo piatto!
+era il primo piatto!
